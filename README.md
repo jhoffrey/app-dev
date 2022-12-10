@@ -1,6 +1,5 @@
 # app-dev
 jhoffrey
-###My favorite movies and series
-***bold text***
+***My favorite movies and series***
 1. Wenesday
 2.
